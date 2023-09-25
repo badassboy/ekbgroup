@@ -1,4 +1,5 @@
 <?php
+ob_start();
 session_start();
 ini_set('display_errors', 1);
 error_reporting(E_ALL);
@@ -10,7 +11,7 @@ if (!empty($_SESSION['username'])) {
   exit();
 }
 
-
+ob_end_flush();
 ?>
 
 
