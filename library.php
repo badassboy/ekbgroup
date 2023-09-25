@@ -32,8 +32,9 @@ class Activities {
 
 	public function loginAdmin($username,$password)
 {
-		$dbh = DB();
-		$stmt = $dbh->prepare("SELECT * FROM admin WHERE username = ?");
+		$db = DB();
+		echo gettype($db);
+		$stmt = $db->prepare("SELECT * FROM admin WHERE username = ?");
 
 		$stmt->execute([$username]);
 		$data = $stmt->fetch(PDO::FETCH_ASSOC);
