@@ -1,5 +1,6 @@
 <?php
 // session_start();
+ob_start();
 ini_set('display_errors', 1);
 error_reporting(E_ALL);
 
@@ -33,15 +34,10 @@ if (isset($_POST['login'])) {
 	}
 }
 
-
-
-
-
-
+ob_flush();
 ?> 
 
-
- <!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
 

@@ -33,7 +33,7 @@ class Activities {
 	public function loginAdmin($username,$password)
 {
 		$db = DB();
-		echo gettype($db);
+		// echo gettype($db);
 		$stmt = $db->prepare("SELECT * FROM admin WHERE username = ?");
 
 		$stmt->execute([$username]);
