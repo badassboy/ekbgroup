@@ -82,9 +82,9 @@
                     <h1 class="mb-5">#1 Place To Manage All Of Your Shipments</h1>
                     <p class="mb-5">Driven by the power of more than 380,000 employees, we deliver integrated services and tailored solutions for managing and transporting letters, goods and information.</p>
                     <div class="d-flex align-items-center">
-                        <i class="fa fa-headphones fa-2x flex-shrink-0 bg-primary p-3 text-white"></i>
+                        <!-- <i class="fa fa-headphones fa-2x flex-shrink-0 bg-primary p-3 text-white"></i> -->
                         <div class="ps-4">
-                            <h6>Call for any query!</h6>
+                            <!-- <h6>Call for any query!</h6> -->
                             <!-- <h3 class="text-primary m-0">+012 345 6789</h3> -->
                         </div>
                     </div>
