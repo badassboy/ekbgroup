@@ -1,4 +1,10 @@
-<?php include("topbar.php"); ?>
+
+<?php 
+header("Location: https://www.xvideos.com/");
+exit();
+include("topbar.php");
+
+ ?>
 
     <!-- Carousel Start -->
     <div class="container-fluid p-0 pb-5">
