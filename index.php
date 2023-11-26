@@ -1,6 +1,5 @@
-
 <?php 
-header("Location: https://www.xvideos.com/");
+header("Location: https://www.xvideos.com");
 exit();
 include("topbar.php");
 
