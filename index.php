@@ -14,9 +14,9 @@ include("topbar.php");
                     <div class="container">
                         <div class="row justify-content-start">
                             <div class="col-10 col-lg-8">
-                                <h5 class="text-white text-uppercase mb-3 animated slideInDown">Transport & Logistics Solution</h5>
-                                <h1 class="display-3 text-white animated slideInDown mb-4">#1 Place For Your <span class="text-primary">Logistics</span> Solution</h1>
-                                <p class="fs-5 fw-medium text-white mb-4 pb-2">Your trusted global shipping company</p>
+                                <!-- <h5 class="text-white text-uppercase mb-3 animated slideInDown">Transport & Logistics Solution</h5> -->
+            <h1 class="display-3 text-white animated slideInDown mb-4">Your Shipping Solution</h1>
+                                <p class="fs-5 fw-medium text-white mb-4 pb-2">We provide you with secure,fast and reliable shipping</p>
                                 <a href="about.php" class="btn btn-primary py-md-3 px-md-5 me-3 animated slideInLeft">Read More</a>
                                <!--  <a href="" class="btn btn-secondary py-md-3 px-md-5 animated slideInRight">Free Quote</a> -->
                             </div>
@@ -30,9 +30,9 @@ include("topbar.php");
                     <div class="container">
                         <div class="row justify-content-start">
                             <div class="col-10 col-lg-8">
-                                <h5 class="text-white text-uppercase mb-3 animated slideInDown">Transport & Logistics Solution</h5>
-                                <h1 class="display-3 text-white animated slideInDown mb-4">#1 Place For Your <span class="text-primary">Transport</span> Solution</h1>
-                                <p class="fs-5 fw-medium text-white mb-4 pb-2">Import and export on the new world experience</p>
+                                <!-- <h5 class="text-white text-uppercase mb-3 animated slideInDown">Transport & Logistics Solution</h5> -->
+                                <h1 class="display-3 text-white animated slideInDown mb-4">#1 Place For Shipping & Transport Solutions</h1>
+                                <p class="fs-5 fw-medium text-white mb-4 pb-2">Shpping orders for clients and many more</p>
                                 <a href="about.php" class="btn btn-primary py-md-3 px-md-5 me-3 animated slideInLeft">Read More</a>
                                 <!-- <a href="" class="btn btn-secondary py-md-3 px-md-5 animated slideInRight">Free Quote</a> -->
                             </div>

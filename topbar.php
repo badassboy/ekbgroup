@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="utf-8">
-    <title>Logistica - Shipping Company Website Template</title>
+    <title>EKBGROUP - Shipping solutions</title>
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
     <meta content="PnCCourier" name="keywords">
     <meta content="Global shipping and logistics company" name="description">
@@ -44,7 +44,7 @@
     <!-- Navbar Start -->
     <nav class="navbar navbar-expand-lg bg-white navbar-light shadow border-top border-5 border-primary sticky-top p-0">
         <a href="index.php" class="navbar-brand bg-primary d-flex align-items-center px-4 px-lg-5">
-            <h2 class="mb-2 text-white">PnCCourier</h2>
+            <h2 class="mb-2 text-white">EKBGROUP</h2>
         </a>
         <button type="button" class="navbar-toggler me-4" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
             <span class="navbar-toggler-icon"></span>
@@ -68,7 +68,7 @@
                 </div> -->
                 <a href="contact.php" class="nav-item nav-link">Contact</a>
             </div>
-            <h4 class="m-0 pe-lg-5 d-none d-lg-block"><i class="fa fa-headphones text-primary me-3"></i>(231)527-9264</h4>
+            <h4 class="m-0 pe-lg-5 d-none d-lg-block"><i class="fa fa-headphones text-primary me-3"></i>(233)245089726</h4>
         </div>
     </nav>
     <!-- Navbar End -->
