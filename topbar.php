@@ -9,7 +9,7 @@
     <meta content="Global shipping and logistics company" name="description">
 
     <!-- Favicon -->
-    <link href="img/favicon.ico" rel="icon">
+    <link href="img/ekblogo.jpeg" rel="icon">
 
     <!-- Google Web Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -42,10 +42,15 @@
 
 
     <!-- Navbar Start -->
-    <nav class="navbar navbar-expand-lg bg-white navbar-light shadow border-top border-5 border-primary sticky-top p-0">
-        <a href="index.php" class="navbar-brand bg-primary d-flex align-items-center px-4 px-lg-5">
-            <h2 class="mb-2 text-white">EKBGROUP</h2>
-        </a>
+    <nav class="navbar navbar-expand-lg bg-white navbar-light shadow border-top border-5 border-primary sticky-top py-3">
+      <a href="index.php" class="navbar-brand  d-flex align-items-center">
+            <!-- <h2 class="mb-2 text-white">EKBGROUP</h2> -->
+             <img src="img/ekblogo.jpeg" width="200" height="100" alt="" 
+             style="margin-left: 20%;">
+        </a> 
+       <!--  <a class="navbar-brand" href="#">
+    <img src="img/ekblogo.jpeg" width="200" height="100" alt="">
+  </a> -->
         <button type="button" class="navbar-toggler me-4" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
             <span class="navbar-toggler-icon"></span>
         </button>
@@ -55,20 +60,20 @@
                 <a href="about.php" class="nav-item nav-link">About</a>
                 <a href="service.php" class="nav-item nav-link">Services</a>
                 <a href="tracking.php" class="nav-item nav-link">Track Shipping</a>
-               <!--  <div class="nav-item dropdown">
+                <div class="nav-item dropdown">
                     <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Pages</a>
                     <div class="dropdown-menu fade-up m-0">
-                        <a href="price.html" class="dropdown-item">Pricing Plan</a>
+                       <!--  <a href="price.html" class="dropdown-item">Pricing Plan</a>
                         <a href="feature.html" class="dropdown-item">Features</a>
-                        <a href="quote.html" class="dropdown-item">Free Quote</a>
-                        <a href="team.html" class="dropdown-item">Our Team</a>
-                        <a href="testimonial.html" class="dropdown-item">Testimonial</a>
-                        <a href="404.html" class="dropdown-item">404 Page</a>
+                        <a href="quote.html" class="dropdown-item">Free Quote</a> -->
+                        <a href="gallery.php" class="dropdown-item">Gallery</a>
+                      <!--   <a href="testimonial.html" class="dropdown-item">Testimonial</a>
+                        <a href="404.html" class="dropdown-item">404 Page</a> -->
                     </div>
-                </div> -->
+                </div>
                 <a href="contact.php" class="nav-item nav-link">Contact</a>
             </div>
-            <h4 class="m-0 pe-lg-5 d-none d-lg-block"><i class="fa fa-headphones text-primary me-3"></i>(233)245089726</h4>
+            <h4 class="m-0 pe-lg-5 d-none d-lg-block"><i class="fa fa-headphones text-primary me-3"></i>(+233)245 089 726</h4>
         </div>
     </nav>
     <!-- Navbar End -->

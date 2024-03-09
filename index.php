@@ -16,7 +16,7 @@ include("topbar.php");
                             <div class="col-10 col-lg-8">
                                 <!-- <h5 class="text-white text-uppercase mb-3 animated slideInDown">Transport & Logistics Solution</h5> -->
             <h1 class="display-3 text-white animated slideInDown mb-4">Your Shipping Solution</h1>
-                                <p class="fs-5 fw-medium text-white mb-4 pb-2">We provide you with secure,fast and reliable shipping</p>
+                                <p class="fs-5 fw-medium text-white mb-4 pb-2">Shipping from China and beyond, to Ghana</p>
                                 <a href="about.php" class="btn btn-primary py-md-3 px-md-5 me-3 animated slideInLeft">Read More</a>
                                <!--  <a href="" class="btn btn-secondary py-md-3 px-md-5 animated slideInRight">Free Quote</a> -->
                             </div>
