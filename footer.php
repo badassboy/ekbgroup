@@ -5,7 +5,7 @@
                     <h4 class="text-light mb-4">Address</h4>
                     <p class="mb-2"><i class="fa fa-map-marker-alt me-3"></i>19A Residential Drive, Ridge Danyame, Kumasi</p>
                     <p class="mb-2"><i class="fa fa-phone-alt me-3"></i>(+233)245 089 726</p>
-                    <p class="mb-2"><i class="fa fa-envelope me-3"></i>info@ekbgroup.com</p>
+                    <p class="mb-2"><i class="fa fa-envelope me-3"></i>ekbgroupone@gmail.com</p>
                    <!--  <div class="d-flex pt-2">
                         <a class="btn btn-outline-light btn-social" href=""><i class="fab fa-twitter"></i></a>
                         <a class="btn btn-outline-light btn-social" href=""><i class="fab fa-facebook-f"></i></a>
